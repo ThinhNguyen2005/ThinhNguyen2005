@@ -154,16 +154,6 @@ Current product direction focuses on natural-language task creation, schedule su
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ThinhNguyen2005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Build · Learn · Improve
